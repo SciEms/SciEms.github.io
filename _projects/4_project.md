@@ -1,24 +1,22 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: This is Fine
+description: A megagame about heat in Western Sydney
 img:
 importance: 3
-category: fun
+category: storytelling
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+*Welcome to summer in Western Sydney. Heatwaves are common at this time of year, and with the effects of climate change they’re getting worse.*
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+As a long-time player and facilitator of table-top roleplaying games and megagames, I was excited to have the opportunity to work with Melbourne Megagames on developing a game for the Powerhouse Museum for a program focused on heat and climate impacts in Western Sydney.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+In *This is Fine* players work together as local councillors, researchers, state ministers and journalists to protect local communities from the immediate effects of heatwaves. The game is designed to provide the opportunity for players to consider the impact of heat, debate the appropriate allocation of state funding and research, and implement heat-mitigating solutions.
+
+You can find the game instructions [here](https://cdn.sanity.io/files/wkgts1b4/production/630f8b6feb5f1742d3b7e25f36b824f4d116a594.pdf_) and more information on its context within the broader program [here](https://powerhouse.com.au/week-3-50c).
+
+You can also check out a video featuring the game and student experience [here](https://powerhouse.com.au/50c-climate-heat-and-resilience
+)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
