@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SciEms.github.io/sitemap.xml
+Sitemap: https://echidnatracks.com.au/sitemap.xml
