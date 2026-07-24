@@ -40,13 +40,13 @@ I find joy in the variety of my work, but ultimately focus my efforts on finding
   <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid #d0d0d0; border-radius: 8px;">
     <h3 style="color: #c4743a; font-family: 'Lora', serif;">Impact</h3>
     <p>Community and stakeholder engagement, and capacity-building projects driving positive impacts for nature and people.</p>
-    <a href="/impact/">View projects (COMING SOON) →</a>
+    <a href=NULL>View projects (COMING SOON) →</a>
   </div>
 
   <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid #d0d0d0; border-radius: 8px;">
     <h3 style="color: #a0a8c4; font-family: 'Lora', serif;">Storytelling</h3>
     <p>Science communication, game design and creative work that brings conservation to life.</p>
-    <a href="/storytelling/">Read posts (COMING SOON) →</a>
+    <a href=NULL>Read posts (COMING SOON) →</a>
   </div>
 
   <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid #d0d0d0; border-radius: 8px;">
