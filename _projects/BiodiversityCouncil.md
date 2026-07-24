@@ -4,8 +4,9 @@ title: Biodiversity Council
 description: Supporting new biodiversity champions at the Biodiversity Council
 img: assets/img/council.jpg 
 importance: 1
-category: driving change
+category: impact
 related_publications: false
+collection: impact
 ---
 
 

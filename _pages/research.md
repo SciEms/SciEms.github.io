@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Conservation social science spanning communication, behaviour change, and beyond.
+description: Impact-focused research in conservation behaviour change, messaging and more.
 nav: true
 nav_order: 4
 ---

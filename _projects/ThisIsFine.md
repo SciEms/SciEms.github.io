@@ -5,6 +5,7 @@ description: A megagame about heat in Western Sydney
 img: assets/img/Megagame.png
 importance: 3
 category: storytelling
+collection: storytelling
 ---
 
 *Welcome to summer in Western Sydney. Heatwaves are common at this time of year, and with the effects of climate change they’re getting worse.*

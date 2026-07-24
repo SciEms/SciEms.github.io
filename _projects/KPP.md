@@ -4,8 +4,9 @@ title: Kangaroo Partnership Project
 description: Exploring shared solutions to a complex land management and animal welfare issue
 img: assets/img/kpp.webp
 importance: 1
-category: driving change
+category: impact
 related_publications: false
+collection: impact
 ---
 
 I coordinated the Kangaroo Partnership Project with the [South Australian Arid Lands Landscape Board](https://www.landscape.sa.gov.au/saal/) and [Sevenseas Creative](https://sevenseas-creative.com/) from June 2022 to December 2023.
