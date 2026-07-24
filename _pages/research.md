@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: research
 description: Conservation social science spanning communication, behaviour change, and beyond.
 nav: true

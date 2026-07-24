@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Early Career Leader Development Program
+title: Biodiversity Council
 description: Supporting new biodiversity champions at the Biodiversity Council
-img: assets/img/7.jpg
-img: 
+img: assets/img/council.jpg 
 importance: 1
 category: driving change
 related_publications: false

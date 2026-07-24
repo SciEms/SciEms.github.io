@@ -2,7 +2,7 @@
 layout: default
 permalink: /storytelling/
 title: storytelling
-nav: false
+nav: true
 nav_order: 3
 pagination:
   enabled: true

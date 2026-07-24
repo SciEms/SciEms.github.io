@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A selection of my work
-nav: false
+title: impact
+permalink: /impact/
+description: Community and stakeholder engagement, and capacity-building projects driving positive impacts for nature and people.
+nav: true
 nav_order: 2
-display_categories: [driving change, research, storytelling]
+display_categories: false
 horizontal: false
 ---
 

@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an ecologist turned conservation social scientist, currently working in the Community Conservation team at [Zoos Victoria](https://www.zoo.org.au/fighting-extinction/meet-the-wildlife-conservation-and-science-team/) (views my own). I am also an honorary Adjunct Industry Fellow at [RMIT University](https://www.rmit.edu.au/profiles/g/emily-gregg).
+I'm an ecologist turned conservation social scientist, currently working as a Conservation Campaigner in the Community Conservation team at [Zoos Victoria](https://www.zoo.org.au/fighting-extinction/meet-the-wildlife-conservation-and-science-team/) (views my own). I am also an honorary Adjunct Industry Fellow at [RMIT University](https://www.rmit.edu.au/profiles/g/emily-gregg).
 
 I use my strategic communication, behaviour change and social science expertise to drive change for nature and people, from individual action to systemic change.
 
@@ -35,3 +35,24 @@ I have worked with conservation organisations and universities across Australia,
 
 I find joy in the variety of my work, but ultimately focus my efforts on finding strategic, creative, and empathetic pathways to empower communities to take action for nature.
 
+<div style="display: flex; gap: 2rem; margin-top: 3rem; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid #d0d0d0; border-radius: 8px;">
+    <h3 style="color: #c4743a; font-family: 'Lora', serif;">Impact</h3>
+    <p>Community and stakeholder engagement, and capacity-building projects driving positive impacts for nature and people.</p>
+    <a href="/impact/">View projects →</a>
+  </div>
+
+  <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid #d0d0d0; border-radius: 8px;">
+    <h3 style="color: #a0a8c4; font-family: 'Lora', serif;">Storytelling</h3>
+    <p>Science communication, game design and creative work that brings conservation to life.</p>
+    <a href="/storytelling/">Read posts →</a>
+  </div>
+
+  <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid #d0d0d0; border-radius: 8px;">
+    <h3 style="color: #3d5c42; font-family: 'Lora', serif;">Research</h3>
+    <p>Impact-focused research in conservation behaviour change, messaging and more.</p>
+    <a href="/research/">View publications →</a>
+  </div>
+
+</div>
