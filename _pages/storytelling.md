@@ -3,7 +3,7 @@ layout: page
 title: storytelling
 permalink: /storytelling/
 description: Science communication, game design and creative work that brings conservation to life.
-nav: true
+nav: false
 nav_order: 3
 horizontal: false
 ---

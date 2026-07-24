@@ -3,7 +3,7 @@ layout: page
 title: impact
 permalink: /impact/
 description: Community and stakeholder engagement, capacity-building and knowledge translation that drives positive impacts for nature and people.
-nav: true
+nav: false
 nav_order: 2
 horizontal: false
 ---
