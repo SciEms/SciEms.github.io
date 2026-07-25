@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://echidnatracks.com.au/sitemap.xml
+Sitemap: https://emilygregg.com.au/sitemap.xml
